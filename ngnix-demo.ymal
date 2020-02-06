@@ -18,4 +18,4 @@ spec:
     spec:
       containers:
       - name: ngnix
-      image: ngnix-app
+      image: ngnix
